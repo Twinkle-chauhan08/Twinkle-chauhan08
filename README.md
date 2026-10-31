@@ -8,13 +8,14 @@
 
 I'm a Data Science student interested in transforming data into meaningful insights and building practical machine learning solutions. I enjoy exploring statistical methods, developing predictive models, and working on hands-on projects that strengthen my technical skills.
 
-## 🌟 About Me
+## 🎓 About Me
 
-- 🎓 Pursuing an **M.Sc. in Data Science**
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
-- 📊 Exploring data analysis, statistical modeling, and predictive analytics
-- 🛠️ Building practical projects using Python and data science tools
-- 📚 Continuously learning through coursework, projects, and problem-solving
+- 🎓 Completed my **B.Sc. in Information Technology** from **CHARUSAT University**.
+- 📚 Currently pursuing my **M.Sc. in Data Science** at **DA-IICT, Gandhinagar**.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+- 📊 Exploring statistical analysis, predictive modeling, and data-driven solutions.
+- 💻 Building hands-on projects to strengthen my technical and problem-solving skills.
+- 🚀 Aspiring to build a career in **AI/ML Engineering and Data Science**.
 
 ## 🛠️ Tech Stack
 
@@ -35,26 +36,13 @@ I'm a Data Science student interested in transforming data into meaningful insig
 <p align="left">
   <a href="https://leetcode.com/u/Twinklee08/">
     <img src="https://leetcard.jacoblin.cool/Twinklee08?theme=dark&font=Baloo&ext=heatmap" alt="Twinklee08 LeetCode Stats" />
-  </a>
+  </a></p>
+  <p align="left">
   <a href="https://www.hackerrank.com/profile/twinklee08">
     <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Twinklee08 HackerRank Profile" />
   </a>
 </p>
 
-
-## 🚀 Featured Projects
-
-### 🏠 StayPredictorAI
-An end-to-end machine learning project focused on predicting nightly Airbnb prices in New York City, covering data preprocessing, feature engineering, model comparison, hyperparameter tuning, and a Streamlit prediction application.
-
-### 🏡 CasaVista Housing Intelligence
-A housing analytics project combining statistical analysis, hypothesis testing, regression modeling, and interactive data exploration.
-
-### 🏥 Hospital Management System
-A web-based hospital management project using Python, Flask, MySQL, and Bootstrap.
-
-### 🍽️ Epicurean Legacy
-A gourmet food website built using HTML and web development fundamentals.
 
 ## 📈 My Goals
 
@@ -63,26 +51,25 @@ A gourmet food website built using HTML and web development fundamentals.
 - Explore AI/ML engineering and data engineering workflows.
 - Develop projects that demonstrate both technical understanding and real-world application.
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [Add your LinkedIn profile URL]
-- 💻 **LeetCode:** [Add your LeetCode profile URL]
-- 🏆 **HackerRank:** [Add your HackerRank profile URL]
-- 📊 **Kaggle:** [Add your Kaggle profile URL]
+<p align="left">
+  <a href="https://www.linkedin.com/" >
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Chauhantwinkle0805@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/Twinklee08/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/twinklee08">
+    <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.kaggle.com/chauhantwinkle080805">
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*<!--
-**Twinkle-chauhan08/Twinkle-chauhan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
